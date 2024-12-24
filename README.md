@@ -6,7 +6,7 @@ Junior Frontend Developer | Passionate About React
 
 Hi! I’m a junior web developer with experience in HTML, CSS, SASS, JavaScript, and React. I enjoy creating modern and user-friendly interfaces that stand out with their design and functionality. I’m constantly learning and striving to improve my skills to build high-quality web applications. I’m looking for an opportunity to work in a team of professionals where I can grow as a developer and contribute to exciting projects.
 
-*   🧠  I'm learning R
+*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Development of responsive and cross-browser websites.
 *   ⚡  I’m open to internships or jobs to gain more experience in real projects.### Skills 
 <p align="left">
